@@ -4,6 +4,6 @@ Soy estudiante **Full Stack**. Actualmente estoy cursando *Samsung Dev Spain* y 
 Algunos de los lenguajes y herramientas que conozco son:
 + JavaScript ES6.
 + TypeScript.
-+ c.
++ C.
 + Python.
 + Git.
